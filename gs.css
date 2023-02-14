@@ -1,0 +1,46 @@
+.speech{
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    font-size:16px;
+    text-decoration: solid;
+    text-indent: 15px;
+}
+.direction{
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    font-size:18px;
+    text-decoration: solid;
+    text-decoration-color: aquamarine;
+    text-indent: 20px;
+}
+.direction.hover{
+
+    background-color: azure;
+    color:blue;
+}
+.name{
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    font-size:20px;
+}
+.cotton{
+    color:coral;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.betty{
+    color:orange;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.adonijah{
+    color:blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.charles{
+    color:blueviolet;
+    font-family:'Times New Roman', 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
