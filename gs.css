@@ -28,6 +28,22 @@
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
 }
+ .betty:hover{
+    background-color: azure;
+    color:violet;
+    text-shadow: 2px 2px blue;
+} 
+.cotton:hover{
+    text-shadow: 2px 2px brown;
+    background-color: azure;
+    color:violet;
+}
+
+h6:hover {
+    text-shadow: 20px 20px 30px gray;
+    border-bottom: black solid;
+    font-size: 30px;
+} 
 .betty{
     color:orange;
     font-family: 'Times New Roman', Times, serif;
