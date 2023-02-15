@@ -13,7 +13,7 @@
     text-decoration-color: aquamarine;
     text-indent: 20px;
 }
-.direction.hover{
+.direction:hover{
 
     background-color: azure;
     color:blue;
@@ -43,4 +43,18 @@
     font-family:'Times New Roman', 'Times New Roman', Times, serif;
     font-size: 20px;
 }
-
+table, th, td {
+    border: 1px solid black;
+    border-collapse:separate;
+  }
+  
+  tr:nth-child(even) {
+    background-color: blue;
+  }
+  tr:nth-child(odd) {
+    background-color: violet;
+  }
+  
+  th:nth-child(even),td:nth-child(even) {
+    background-color: yellow
+  }
